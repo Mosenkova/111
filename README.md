@@ -1,2 +1,3 @@
 # 111
-#Gumelev.html for bloh post.\nhttp://Mosenkova/111.git/Github-pages/
+#Gumelev.html for blog
+post.\nhttp://Mosenkova/111.git/Github-pages/
